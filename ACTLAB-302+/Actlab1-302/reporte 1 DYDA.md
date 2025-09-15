@@ -14,6 +14,6 @@ int main ()
   return 0;
 }
 ```
-## pruba de escritorio 
+## prueba de escritorio 
 Bienvenidos a programacion Basica en C++
 gracias por programar en clase
